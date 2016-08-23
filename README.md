@@ -1,26 +1,6 @@
-# Onsen UI 2.0 beta Quickstart
+# Onsen UI 2.0 quick start on Cordova
 
 This repository will get you up and running quickly with the Onsen UI 2.0 beta.
-
-## Prerequisites
-
-To run the samples, you need to have the following programs installed:
-
-* [Node.js](https://nodejs.org/en/)
-* [Git](https://git-scm.com/)
-
-## Running
-
-The repository is designed to help you get started with Onsen UI 2.0 instantly. Just type the following commands in a terminal:
-
-```bash
-git clone https://github.com/OnsenUI/onsen2-quickstart.git
-cd onsen2-quickstart/
-npm install
-gulp serve
-```
-
-This will install the required libraries and start a web server. The URL will be displayed in the terminal so you can go ahead and open that URL in a browser.
 
 ## Running as a Cordova app
 
@@ -45,7 +25,3 @@ cordova run android
 ```
 
 If you want to deploy to an iOS device the prodecure is almost the same. Keep in mind that in order to deploy to an iOS device you need a Mac computer with XCode installed.
-
-## Bug reports and issues
-
-Onsen UI 2.0 is still in beta. We want to make it as good as possible before releasing the stable version. If you find any bugs or if you have any suggestions on how to improve it, please [open an issue](https://github.com/OnsenUI/OnsenUI/issues/new) on GitHub.
