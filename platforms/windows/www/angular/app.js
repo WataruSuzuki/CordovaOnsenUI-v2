@@ -1,4 +1,4 @@
-(function() {
+﻿(function() {
   angular.module('app', ['onsen'])
   .controller('TodoController', function($scope, $timeout) {
     this.items = [

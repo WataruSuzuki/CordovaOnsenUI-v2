@@ -1,4 +1,4 @@
-{
+﻿{
   "name": "react",
   "main": ["react.js", "react-dom.js"],
   "ignore": []

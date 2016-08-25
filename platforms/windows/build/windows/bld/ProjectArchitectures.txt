@@ -1,0 +1,1 @@
+C:\Users\watar\Documents\GitHub\CordovaOnsenUI-v2\platforms\windows\CordovaApp.Windows.jsproj;neutral
