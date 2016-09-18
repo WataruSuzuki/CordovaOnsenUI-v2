@@ -1,0 +1,1 @@
+{"name":"io.onsen.quickstart","version":"0.0.1","title":"Onsen UI 2.0 Quickstart","hooks":{"cordova":{"desktop":"cordova.desktop","apparmor":"apparmor.json"}},"framework":"ubuntu-sdk-13.10","maintainer":"Onsen UI Team <team@monaca.io>","architecture":"amd64","description":"Onsen UI 2.0 Quickstart Template"}
