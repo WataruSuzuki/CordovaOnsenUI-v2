@@ -1,0 +1,17 @@
+Source: io.onsen.quickstart
+Section: devel
+Priority: optional
+Maintainer: Onsen UI Team <team@monaca.io>
+Build-Depends: ubuntu-sdk,
+         qtfeedback5-dev,
+         qtmultimedia5-dev,
+         qtpim5-dev,
+         libqt5sensors5-dev,
+         qtsystems5-dev,
+         qtlocation5-dev,
+         libicu-dev
+
+Package: io.onsen.quickstart
+Architecture: any
+Description: Onsen UI 2.0 Quickstart Template
+Depends: ubuntu-sdk-libs

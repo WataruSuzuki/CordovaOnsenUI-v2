@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Onsen UI 2.0 Quickstart
+Exec=/opt/io.onsen.quickstart/cordova-ubuntu
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+Icon=/opt/io.onsen.quickstart/www/logo.png

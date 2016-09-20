@@ -1,0 +1,11 @@
+/home/watarusuzuki/programming_WebApp/CordovaOnsenUI-v2/platforms/ubuntu/native/prefix/cordova-ubuntu
+/home/watarusuzuki/programming_WebApp/CordovaOnsenUI-v2/platforms/ubuntu/native/prefix/www/libcoreplugins.so
+/home/watarusuzuki/programming_WebApp/CordovaOnsenUI-v2/platforms/ubuntu/native/prefix/www/cordova.js
+/home/watarusuzuki/programming_WebApp/CordovaOnsenUI-v2/platforms/ubuntu/native/prefix/qml/main.qml
+/home/watarusuzuki/programming_WebApp/CordovaOnsenUI-v2/platforms/ubuntu/native/prefix/CordovaUbuntu.4.3/libcordovaubuntuplugin.so
+/home/watarusuzuki/programming_WebApp/CordovaOnsenUI-v2/platforms/ubuntu/native/prefix/CordovaUbuntu.4.3/CordovaView.qml
+/home/watarusuzuki/programming_WebApp/CordovaOnsenUI-v2/platforms/ubuntu/native/prefix/CordovaUbuntu.4.3/cordova_wrapper.js
+/home/watarusuzuki/programming_WebApp/CordovaOnsenUI-v2/platforms/ubuntu/native/prefix/CordovaUbuntu.4.3/qmldir
+/home/watarusuzuki/programming_WebApp/CordovaOnsenUI-v2/platforms/ubuntu/native/prefix/CordovaUbuntu.4.3/CordovaViewInternal.qml
+/home/watarusuzuki/programming_WebApp/CordovaOnsenUI-v2/platforms/ubuntu/native/prefix/CordovaUbuntu.4.3/escape.js
+/home/watarusuzuki/programming_WebApp/CordovaOnsenUI-v2/platforms/ubuntu/native/prefix/CordovaUbuntu.4.3/ItemSelector.qml
