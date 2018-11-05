@@ -1,0 +1,18 @@
+{
+  "name": "io.onsen.quickstart",
+  "version": "0.0.1",
+  "displayName": "Onsen UI 2.0 Quickstart",
+  "cordova": {
+    "platforms": [
+      "browser",
+      "android"
+    ],
+    "plugins": {
+      "cordova-plugin-whitelist": {}
+    }
+  },
+  "dependencies": {
+    "cordova-browser": "~5.0.4",
+    "cordova-plugin-whitelist": "1"
+  }
+}
