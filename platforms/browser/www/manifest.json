@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Onsen UI 2.0 Quickstart",
+  "short_name": "Onsen UI 2.0 Quickstart",
+  "version": "io.onsen.quickstart",
+  "description": "Onsen UI 2.0 Quickstart Template",
+  "author": "Onsen UI Team",
+  "icons": [],
+  "start_url": "index.html"
+}
