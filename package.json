@@ -6,16 +6,18 @@
     "platforms": [
       "browser",
       "android",
-      "ios"
+      "ios",
+      "osx"
     ],
     "plugins": {
       "cordova-plugin-whitelist": {}
     }
   },
   "dependencies": {
+    "cordova-android": "~7.1.4",
     "cordova-browser": "~5.0.4",
     "cordova-ios": "^4.5.5",
-    "cordova-plugin-whitelist": "1",
-    "cordova-android": "~7.1.4"
+    "cordova-osx": "^4.0.2",
+    "cordova-plugin-whitelist": "1"
   }
 }
