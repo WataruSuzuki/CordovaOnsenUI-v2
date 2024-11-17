@@ -14,10 +14,10 @@
     }
   },
   "dependencies": {
-    "cordova-android": "^8.0.0",
-    "cordova-browser": "^6.0.0",
-    "cordova-ios": "^5.0.1",
-    "cordova-osx": "^5.0.0",
+    "cordova-android": "^13.0.0",
+    "cordova-browser": "^7.0.0",
+    "cordova-ios": "^7.1.1",
+    "cordova-osx": "^7.0.0",
     "cordova-plugin-whitelist": "1"
   }
 }
